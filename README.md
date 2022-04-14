@@ -1,5 +1,5 @@
 # csv_to_google_calendar
-Cria arquivo no formato ".csv" para importação no Google Agenda a partir de um modelo mais amigável para edição no formato ".xlsx".
+Programa simples para criar um arquivo no formato ".csv" para importação no Google Agenda a partir de um modelo mais amigável para edição no formato ".xlsx".
 
 Após a criação do arquivo "importar.csv", acesso a página do Google Agenda (https://calendar.google.com), na coluna lateral esquerda, clique no botão "+" em "Outras Agendas" e em  "Importar. A seguir, selecione o arquivo "importar.csv" e a agenda para qual os eventos devem ser importados, conforme imagens abaixo:
 

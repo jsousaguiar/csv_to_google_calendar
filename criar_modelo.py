@@ -64,3 +64,8 @@ def criar_modelo():
         modelo.loc[len(modelo)] = line
     modelo.to_excel("modelo_calendario.xlsx", header=True, index=False)
     return None
+
+
+if __name__ == "__main__":
+    criar_modelo()
+    print("Modelo criado com sucesso!")
